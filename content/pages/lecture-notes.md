@@ -39,10 +39,10 @@ Student's Notes
 Review of Basic Thermal Radiation Concepts, Blackbody Radiation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture1))
+([PDF]({{< baseurl >}}/resources/lecture1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect1))
+([PDF]({{< baseurl >}}/resources/student_lect1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,10 +54,10 @@ Review of Basic Thermal Radiation Concepts, Blackbody Radiation
 View Factor, Simple Radiative Transfer
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture2))
+([PDF]({{< baseurl >}}/resources/lecture2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect2))
+([PDF]({{< baseurl >}}/resources/student_lect2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,10 +75,10 @@ View Factor, Simple Radiative Transfer
 Radiative Transfer in Enclosures
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture3))
+([PDF]({{< baseurl >}}/resources/lecture3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect3))
+([PDF]({{< baseurl >}}/resources/student_lect3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,10 +90,10 @@ Radiative Transfer in Enclosures
 Radiative Transfer in Enclosures (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture4))
+([PDF]({{< baseurl >}}/resources/lecture4))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect4))
+([PDF]({{< baseurl >}}/resources/student_lect4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,10 +111,10 @@ Radiative Transfer in Enclosures (cont.)
 EM Waves
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture5))
+([PDF]({{< baseurl >}}/resources/lecture5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect5))
+([PDF]({{< baseurl >}}/resources/student_lect5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,10 +132,10 @@ EM Waves
 EM Wave Modeling of Surfaces
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture6))
+([PDF]({{< baseurl >}}/resources/lecture6))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect6))
+([PDF]({{< baseurl >}}/resources/student_lect6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,10 +147,10 @@ EM Wave Modeling of Surfaces
 EM Wave Modeling of Thin Films
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture7))
+([PDF]({{< baseurl >}}/resources/lecture7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect7))
+([PDF]({{< baseurl >}}/resources/student_lect7))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,10 +168,10 @@ EM Wave Modeling of Thin Films
 EM Wave Modeling of Particles
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture8))
+([PDF]({{< baseurl >}}/resources/lecture8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect8))
+([PDF]({{< baseurl >}}/resources/student_lect8))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,10 +183,10 @@ EM Wave Modeling of Particles
 Scattering Properties of Particulates
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture9))
+([PDF]({{< baseurl >}}/resources/lecture9))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect9))
+([PDF]({{< baseurl >}}/resources/student_lect9))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,10 +204,10 @@ Scattering Properties of Particulates
 Dielectric Properties of Solid, Drude Model
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture10))
+([PDF]({{< baseurl >}}/resources/lecture10))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect10))
+([PDF]({{< baseurl >}}/resources/student_lect10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,10 +219,10 @@ Dielectric Properties of Solid, Drude Model
 Lorentz Model
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture11))
+([PDF]({{< baseurl >}}/resources/lecture11))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect11))
+([PDF]({{< baseurl >}}/resources/student_lect11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,10 +240,10 @@ Lorentz Model
 Radiative Properties of Gases
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture12))
+([PDF]({{< baseurl >}}/resources/lecture12))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect12))
+([PDF]({{< baseurl >}}/resources/student_lect12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,10 +255,10 @@ Radiative Properties of Gases
 Radiative Properties of Gases (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture13))
+([PDF]({{< baseurl >}}/resources/lecture13))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect13))
+([PDF]({{< baseurl >}}/resources/student_lect13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,10 +276,10 @@ Radiative Properties of Gases (cont.)
 First Mid-term (In-class, Open Book)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture14))
+([PDF]({{< baseurl >}}/resources/lecture14))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect14))
+([PDF]({{< baseurl >}}/resources/student_lect14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,10 +291,10 @@ First Mid-term (In-class, Open Book)
 Equation of Radiative Transfer in Participating Media
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture15))
+([PDF]({{< baseurl >}}/resources/lecture15))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect15))
+([PDF]({{< baseurl >}}/resources/student_lect15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,10 +312,10 @@ Equation of Radiative Transfer in Participating Media
 Solution of ERT for One-dimensional Gray Media
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture16))
+([PDF]({{< baseurl >}}/resources/lecture16))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect16))
+([PDF]({{< baseurl >}}/resources/student_lect16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -327,10 +327,10 @@ Solution of ERT for One-dimensional Gray Media
 Discrete Ordinate Method
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture17))
+([PDF]({{< baseurl >}}/resources/lecture17))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect17))
+([PDF]({{< baseurl >}}/resources/student_lect17))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -348,10 +348,10 @@ Discrete Ordinate Method
 Spherical Harmonics Method
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture18))
+([PDF]({{< baseurl >}}/resources/lecture18))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect18))
+([PDF]({{< baseurl >}}/resources/student_lect18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -369,10 +369,10 @@ Spherical Harmonics Method
 Approximate Solutions
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture19))
+([PDF]({{< baseurl >}}/resources/lecture19))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect19))
+([PDF]({{< baseurl >}}/resources/student_lect19))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -384,10 +384,10 @@ Approximate Solutions
 Monte Carlo Simulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture20))
+([PDF]({{< baseurl >}}/resources/lecture20))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect20))
+([PDF]({{< baseurl >}}/resources/student_lect20))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -405,10 +405,10 @@ Monte Carlo Simulation
 Presentation and Discussion on Global Warming
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture21))
+([PDF]({{< baseurl >}}/resources/lecture21))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect21))
+([PDF]({{< baseurl >}}/resources/student_lect21))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -420,10 +420,10 @@ Presentation and Discussion on Global Warming
 Near Field Thermal Radiation, Fluctuation-dissipation Theory
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture22))
+([PDF]({{< baseurl >}}/resources/lecture22))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect22))
+([PDF]({{< baseurl >}}/resources/student_lect22))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -441,10 +441,10 @@ Near Field Thermal Radiation, Fluctuation-dissipation Theory
 Near Field Thermal Radiation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture23))
+([PDF]({{< baseurl >}}/resources/lecture23))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_lect23))
+([PDF]({{< baseurl >}}/resources/student_lect23))
 {{< tdclose >}}
 
 {{< trclose >}}

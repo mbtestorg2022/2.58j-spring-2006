@@ -186,7 +186,7 @@ Dielectric Properties of Solid, Drude Model
 Lorentz Model
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Properties of Solids (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chap6_solid_prop))
+Optical Properties of Solids ([PDF]({{< baseurl >}}/resources/chap6_solid_prop))
 {{< tdclose >}}
 
 {{< trclose >}}
